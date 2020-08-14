@@ -3,4 +3,11 @@
 ## how to post a blog
 
 - fork this repo
+- add your post
+- make pull request
+- require team member to review your blog
+- merge the pull request
 
+## Blog history
+
+- 2020.08.14 [hello bupt](https://bupt-nlp.github.io/2020/08/14/hello-world/)
